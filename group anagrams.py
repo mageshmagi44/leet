@@ -5,7 +5,7 @@ def groupana(ans):
         if s in map:
             map[s].append(i)
         else:
-            map[s]=[i]
+            map[s]=[i]djdj
 
 
     print(map)
